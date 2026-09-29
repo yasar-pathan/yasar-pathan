@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="./WhatsApp%20Image%202026-09-29%20at%2012.19.56%20PM.jpeg" alt="Header Image" width="450" />
+
+  <br/><br/>
+
+  🌐 **Portfolio:** [yasarpathan.dev](https://yasarpathan.dev)
+</div>
+
+
 <!--
 **yasar-pathan/yasar-pathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
