@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="./WhatsApp%20Image%202026-09-29%20at%2012.19.56%20PM.jpeg" alt="Header Image" width="450" />
+  <img src="./image.jpeg" alt="Header Image" width="450" />
 
   <br/><br/>
 
